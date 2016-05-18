@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ijkplayer [![Build Status](https://travis-ci.org/Bilibili/ijkplayer.svg?branch=master)](https://travis-ci.org/Bilibili/ijkplayer)
 
 Video player based on [ffplay](http://ffmpeg.org)
@@ -237,3 +238,7 @@ ijkplayer is licensed under LGPLv2.1 or later, so itself is free for commercial 
 But ijkplayer is also based on other different projects under various licenses, which I have no idea whether they are compatible to each other or to your product.
 
 [IANAL](https://en.wikipedia.org/wiki/IANAL), you should always ask your lawyer for these stuffs before use it in your product.
+=======
+# mediaplayer
+android mediaplayer base on ijkplayer
+>>>>>>> cbb4adff0b4b2098884309fa7f93320680f1601e
