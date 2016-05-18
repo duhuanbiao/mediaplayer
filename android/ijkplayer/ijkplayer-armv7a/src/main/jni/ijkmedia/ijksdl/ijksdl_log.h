@@ -62,7 +62,7 @@
 
 #endif
 
-#define IJK_LOG_TAG "IJKMEDIA"
+#define IJK_LOG_TAG "ffplay"
 
 #define VLOGV(...)  VLOG(IJK_LOG_VERBOSE,   IJK_LOG_TAG, __VA_ARGS__)
 #define VLOGD(...)  VLOG(IJK_LOG_DEBUG,     IJK_LOG_TAG, __VA_ARGS__)
